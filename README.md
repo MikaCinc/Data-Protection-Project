@@ -6,11 +6,11 @@
 
 Projekat je rađen u C#-u - WinForms
 Implementirane su sve funkcionalnosti tražene u zadatku:
--Sve 4 cipher klase iz 4. grupe
--Fajlovi - input/output rade sa svim klasama
--SHA-256 hash - posebna klasa
--24-bit BMP u A5/1 klasi
--Paralelizacija u Playfair klasi
+- Sve 4 cipher klase iz 4. grupe
+- Fajlovi - input/output rade sa svim klasama
+- SHA-256 hash - posebna klasa
+- 24-bit BMP u A5/1 klasi
+- Paralelizacija u Playfair klasi
 
 Svaki tab u UI-u odgovara jednoj klasi.
 Svaki tab poseduje DEMO dugme koje pokreće demonstraciju
